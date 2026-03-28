@@ -30,6 +30,7 @@ Nmap, Burp Suite, Metasploit, Wireshark, Nikto, OpenVAS/GVM, enum4linux, BloodHo
 - [Active Directory Pentest Lab](https://github.com/kvarghesenikhil-web/active-directory-pentest-lab)
 - [AWS Cloud Security Lab](https://github.com/kvarghesenikhil-web/aws-cloud-security-lab)
 - [Pentest Reports](https://github.com/kvarghesenikhil-web/pentest-reports)
+- [OSINT-Bug-Bounty-platform](https://github.com/kvarghesenikhil-web/osint-bug-bounty-platform.git)
 
 ## Certifications
 - Certified Ethical Hacker (CEH)
