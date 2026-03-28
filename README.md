@@ -26,10 +26,10 @@ My work focuses on:
 Nmap, Burp Suite, Metasploit, Wireshark, Nikto, OpenVAS/GVM, enum4linux, BloodHound, Impacket, Ettercap, AWS CLI, Bash, Python
 
 ## Featured Projects
-- Metasploitable2 Pentest Lab
-- Active Directory Pentest Lab
-- AWS Cloud Security Lab
-- Pentest Reports
+- [Metasploitable2 Pentest Lab](https://github.com/kvarghesenikhil-web/metasploitable2-pentest-lab)
+- [Active Directory Pentest Lab](https://github.com/kvarghesenikhil-web/active-directory-pentest-lab)
+- [AWS Cloud Security Lab](https://github.com/kvarghesenikhil-web/aws-cloud-security-lab)
+- [Pentest Reports](https://github.com/kvarghesenikhil-web/pentest-reports)
 
 ## Certifications
 - Certified Ethical Hacker (CEH)
